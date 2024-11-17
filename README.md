@@ -29,3 +29,5 @@ You’re going to need a computer (laptop or desktop). It should be running a re
 ## Summary
 
 In the next few lessons, you'll install and configure some of the primary tools that you'll use as a data scientist.
+
+The End
